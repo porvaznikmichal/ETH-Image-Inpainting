@@ -3,7 +3,7 @@ function I_rec = inPainting(I, mask)
 %
 % INPUT
 % I: (p x q) masked image
-% mask: (p x q) the mask hidding image information
+% mask: (p x q) the mask hiding image information
 %
 % OUTPUT
 % I_rec: Reconstructed image 
